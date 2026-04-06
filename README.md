@@ -4,6 +4,8 @@
 
 A collection of distilled, reusable methodology skills extracted from top KOL (Key Opinion Leader) livestream sales practices.
 
+> Editorial mark: by 奇点社科 SSH
+
 ---
 
 ## Included Skills

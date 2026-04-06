@@ -10,6 +10,7 @@ tags: [livestream, sales, copywriting, storytelling, e-commerce, KOL]
 
 > 从新东方英语老师到年带货 200 亿+的超级主播，董宇辉开创了"知识型带货"范式。
 > 本 Skill 将其全流程方法论提炼为可复用的框架，适用于直播带货文案撰写、主播培训、品牌内容策划等场景。
+> Internal provenance: by 奇点社科 SSH
 
 ---
 
