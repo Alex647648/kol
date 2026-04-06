@@ -1,5 +1,7 @@
 # KOL Sales Mastery Skills
 
+**[English](./README.md)** | **[中文](./README_CN.md)**
+
 A collection of distilled, reusable methodology skills extracted from top KOL (Key Opinion Leader) livestream sales practices.
 
 ---
@@ -12,15 +14,15 @@ Knowledge-based livestream sales methodology distilled from Dong Yuhui's practic
 
 **What it covers (11 chapters):**
 
-| Chapter | Module | Description |
-|---------|--------|-------------|
+| Ch. | Module | Description |
+|-----|--------|-------------|
 | 0 | Input/Output Spec | Structured YAML input format + 7-piece output deliverable set |
 | 1 | Core Philosophy | Knowledge-based selling vs traditional selling; 3-layer value delivery |
 | 2 | Persona Building | Persona pyramid, fan ecosystem, anchor matrix cultivation |
 | 3 | Copywriting Methodology | Golden 5-step structure, 5 rhetoric weapons, category-specific strategies, classic case studies |
 | 4 | Livestream Process | Stream structure, pacing, price anchoring, interaction templates, 4-step product intro |
 | 5 | Product Selection | Category matrix, business model, story-score 5D evaluation (25-point scale) |
-| 6 | Content Matrix | 4 IP columns (Travel/Interview/Reading/Lifestyle), cross-border models |
+| 6 | Content Matrix | 4 IP columns (Travel / Interview / Reading / Lifestyle), cross-border models |
 | 7 | Key Metrics | GMV milestones, per-session averages, growth trajectory |
 | 8 | Anti-Patterns | Copywriting, livestream, and selection taboos with correct alternatives |
 | 9 | Checklists | 4 reusable checklists (copywriting, livestream, persona, selection) |
@@ -34,7 +36,7 @@ Knowledge-based livestream sales methodology distilled from Dong Yuhui's practic
 
 ```yaml
 product:
-  name: "Cloud South Pu'er Ancient Tree Tea Cake"
+  name: "Yunnan Pu'er Ancient Tree Tea Cake"
   price: "268"
   specs: "357g tea cake"
   selling_points:
@@ -57,13 +59,13 @@ stream_context:
 Follow the SKILL.md pipeline to produce the **7-piece output set**:
 
 ```
-1. Mode Assessment    → Knowledge-style, 3-layer value design
-2. Persona Match      → Which persona facets to emphasize this session
-3. Selection Score    → 5-dimension story score (target: >= 15/25)
-4. Full Copy          → Golden 5-step structured sales copy
-5. Stream Timeline    → Minute-by-minute broadcast plan
-6. Interaction Presets→ 3-5 predicted comments + response scripts
-7. Self-Check Report  → 4 checklists with pass/fail per item
+1. Mode Assessment     → Knowledge-style, 3-layer value design
+2. Persona Match       → Which persona facets to emphasize this session
+3. Selection Score     → 5-dimension story score (target: >= 15/25)
+4. Full Copy           → Golden 5-step structured sales copy
+5. Stream Timeline     → Minute-by-minute broadcast plan
+6. Interaction Presets → 3-5 predicted comments + response scripts
+7. Self-Check Report   → 4 checklists with pass/fail per item
 ```
 
 ### 3. Sample Output (Copywriting Excerpt)
@@ -97,18 +99,18 @@ Core principle: **Never mention product specs. Let scenes and emotions create de
 
 ### 5 Rhetoric Weapons
 
-| Weapon | Effect | Example Technique |
-|--------|--------|-------------------|
-| Parallel Structure | Rhythm + emotional escalation | "I haven't taken you to see..." x4 → "But I can..." |
+| Weapon | Effect | Technique |
+|--------|--------|-----------|
+| Parallel Structure | Rhythm + emotional escalation | "I haven't taken you to see..." x4 then "But I can..." |
 | Space-Time Jump | Expand imagination | Daily life vs. distant world juxtaposition |
-| Knowledge Anchor | Build trust + depth | Civilization history → everyday moment |
-| Self-Deprecating Humor | Remove sales pressure | Self-mockery → absurd analogy → product punchline |
+| Knowledge Anchor | Build trust + depth | Civilization history narrowing to an everyday moment |
+| Self-Deprecating Humor | Remove sales pressure | Self-mockery, absurd analogy, product punchline |
 | Synesthesia | Awaken body memory | Sensory contrast (hot apartment vs. mountain moonlight) |
 
 ### Soft Conversion (No Hard Sell)
 
-| Traditional | Knowledge-Style |
-|-------------|----------------|
+| Traditional Hard Sell | Knowledge-Style Soft Sell |
+|-----------------------|--------------------------|
 | "3-2-1 buy now!" | "If you'd like to try, the link is below." |
 | "Only 5 left!" | "268 / 40 brews = less than 7 yuan each" |
 | Countdown timer | Value reframing |
@@ -121,11 +123,11 @@ Core principle: **Never mention product specs. Let scenes and emotions create de
 ```
 Origin Story + Craft Story + Cultural Story + Emotional Story + Sensory Story
 
->= 20: Perfect fit     → Priority scheduling
-15-19: High fit        → Normal scheduling
-10-14: Needs augment   → Anchor must create the story
- 5-9:  Low fit         → Replace or use as filler only
-  <5:  Not compatible  → Do not list
+20-25  Perfect fit    → Priority scheduling
+15-19  High fit       → Normal scheduling
+10-14  Needs augment  → Anchor must create the story
+ 5-9   Low fit        → Replace or use as filler only
+  <5   Not compatible → Do not list
 ```
 
 ---
@@ -160,7 +162,8 @@ Origin Story + Craft Story + Cultural Story + Emotional Story + Sensory Story
 
 ```
 kol/
-  README.md                              # This file
+  README.md                              # English README
+  README_CN.md                           # Chinese README
   dong-yuhui-sales-mastery/
     SKILL.md                             # Complete methodology (v1.1.0)
 ```
